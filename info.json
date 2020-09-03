@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9f0b75255e29e31a049ea32364485a5c17957d0f",
+    "author": "petermeissner <retep.meissner@gmail.com>",
+    "time": "2020-09-03 19:06:12",
+    "files": 5,
+    "merge": false,
+    "message": "CRAN compliance\n"
+  },
+  "remote": "https://github.com/ropensci/robotstxt",
+  "pkg": "robotstxt"
+}
