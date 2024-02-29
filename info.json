@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "dd5bf96a1958f964151546fecae61c3d92cdb87f",
+    "author": "Pedro Z <pedrobtz@gmail.com>",
+    "time": "2023-01-02 10:28:23",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #67 from ropensci/add-rcmdcheck-action\n\n"
+  },
+  "repo": "https://github.com/ropensci/robotstxt",
+  "pkg": "robotstxt"
+}
