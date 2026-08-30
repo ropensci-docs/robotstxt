@@ -1,0 +1,9 @@
+# License
+
+    YEAR: 2018-2020
+    COPYRIGHT HOLDER: Peter Meissner
+
+    YEAR: 2018
+    COPYRIGHT HOLDER: Kun Ren
+
+

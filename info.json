@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "d3d0a4d525e87204010d10162b01a921b05a6149",
+    "author": "Jordan Bradford <36420801+jrdnbradford@users.noreply.github.com>",
+    "time": "2024-11-15T19:32:37Z",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #94 from ropensci/simplify-get_robotstxt_http_get\n\nRewrite `get_robotstxt_http_get`"
+  },
+  "repo": "https://github.com/ropensci/robotstxt",
+  "pkg": "robotstxt",
+  "time": "2026-08-30T07:41:24Z"
+}
